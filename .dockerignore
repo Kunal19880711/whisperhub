@@ -7,4 +7,4 @@ node_modules
 .gitignore
 Dockerfile
 README.md
-scalarchatterbox.code-workspace
+whisperhub.code-workspace

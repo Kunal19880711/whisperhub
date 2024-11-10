@@ -18,7 +18,7 @@ async function asyncRun(cmd, print = true) {
   });
 }
 
-const dockerImgName = "scalarchatterbox-node";
+const dockerImgName = "whisperhub-node";
 const containerName = "angry";
 
 desc(`Building docker image: [${dockerImgName}]`);
