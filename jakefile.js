@@ -19,7 +19,7 @@ async function asyncRun(cmd, print = true) {
 }
 
 const dockerImgName = "whisperhub-node";
-const containerName = "angry";
+const containerName = "whisperhub";
 
 desc(`Building docker image: [${dockerImgName}]`);
 task("build-docker", async function () {
